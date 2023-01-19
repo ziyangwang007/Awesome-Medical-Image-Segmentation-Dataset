@@ -33,5 +33,6 @@ https://www.soumick.com/en/uhura/)
 - [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation)
 - [Vessel Segmentation](https://www.kaggle.com/competitions/sai-vessel-segmentation2)
 - [COVID-19 CT Images Segmentation](https://www.kaggle.com/competitions/covid-segmentation)
+- [Identify glomeruli in human kidney tissue images](https://www.kaggle.com/competitions/hubmap-kidney-segmentation)
 
 # Region of Interest
