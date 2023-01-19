@@ -28,6 +28,10 @@ https://www.soumick.com/en/uhura/)
 - [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
 
 ## Kaggle
-
+- [Brain MRI segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
+- [Ultrasound Nerve Segmentation](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation)
+- [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation)
+- [Vessel Segmentation](https://www.kaggle.com/competitions/sai-vessel-segmentation2)
+- [COVID-19 CT Images Segmentation](https://www.kaggle.com/competitions/covid-segmentation)
 
 # Region of Interest
