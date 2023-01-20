@@ -12,6 +12,10 @@ A list of publicly available medical image segmentation dataset.
 https://www.soumick.com/en/uhura/)
 - [SHINY-ICARUS: Segmentation over tHree dImensional rotational aNgiographY of Internal Carotid ArteRy with aneUrySm](https://www.synapse.org/shiny_icarus)
 
+## ISBI 2019
+- [SegTHOR: Segmentation of THoracic Organs at Risk in CT images](https://competitions.codalab.org/competitions/21145)
+
+
 ## MICCAI 2023
 - [The Federated Tumor Segmentation (FeTS) Challenge 2022](https://fets-ai.github.io/Challenge/)
 - [Ischemic Stroke Lesion Segmentation Challenge 2022: Acute, sub-acute and chronic stroke infarct segmentation](http://www.isles-challenge.org/)
@@ -32,11 +36,22 @@ https://www.soumick.com/en/uhura/)
 ## MICCAI 2020
 - [Multimodal Brain Tumor Segmentation Challenge 2020 (BraTS)](https://www.med.upenn.edu/cbica/brats2020/data.html)
 
+## MICCAI 2018
+- [ISIC Skin Image Analysis Workshop and Challenge](https://workshop2018.isic-archive.com/)
+
 ## MICCAI 2017
 - [Automated Cardiac Diagnosis Challenge (ACDC)](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
 
+## MICCAI 2015
+-[BRATS 2015: Brain Tumor Image Segmentation Challenge](https://www.smir.ch/BRATS/Start2015)
+
+
 ## MICCAI 2014
 - [COMPUTATIONAL CHALLENGES On Spine and Vertebrae Segmentation](http://csi-workshop.weebly.com/challenges.html)
+
+## MICCAI 2012
+- [Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge](https://promise12.grand-challenge.org/)
+
 
 ## Kaggle
 - [Brain MRI segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
@@ -47,7 +62,6 @@ https://www.soumick.com/en/uhura/)
 - [Identify glomeruli in human kidney tissue images](https://www.kaggle.com/competitions/hubmap-kidney-segmentation)
 
 # Region of Interest
-- [Medical Segmentation Decathlon](http://medicaldecathlon.com/)
 
 ## Cell
 - [PanNuke - Open PanCancer Histology Dataset for Nuclei Instance Segmentation and Classification ](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke)
@@ -59,10 +73,14 @@ https://www.soumick.com/en/uhura/)
 - [AbdomenCT-1K: Is Abdominal Organ Segmentation A Solved Problem?](https://github.com/JunMa11/AbdomenCT-1K)
 
 
+## Skin Lesions
+- [HAM10000](https://github.com/ptschandl/HAM10000_dataset)
+
 ## Eye
 - [Dataset for Fluorescein Angiography (Video & Late Image) in DME eyes](https://people.duke.edu/~sf59/Rabbani_IOVS_2014_dataset.htm)
 - [Retinal Imaging CHASE DB1](https://blogs.kingston.ac.uk/retinal/chasedb1/)
 - [RITE (Retinal Images vessel Tree Extraction)](https://medicine.uiowa.edu/eye/rite-dataset)
+- [ROSE (Retinal OCTA SEgmentation dataset)](https://imed.nimte.ac.cn/dataofrose.html)
 
 ## Spine
 - [IVDM3Seg: Intervertebral Disc (IVD) Localization and Segmentation from 3D Multi-Modality MR (M3) Images](http://spineweb.digitalimaginggroup.ca/Index.php?n=Main.Datasets#Dataset_14.3A_IVDM3Seg_.E2.80.93_Intervertebral_Disc_.28IVD.29_Localization_and_Segmentation_from_3D_Multi-Modality_MR_.28M3.29_Images)
@@ -72,4 +90,6 @@ https://www.soumick.com/en/uhura/)
 - [Lumbar vertebra segmentation CT image database](http://lit.fe.uni-lj.si/)
 
 ## Others
--[Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119703167)
+- [Medical Segmentation Decathlon](http://medicaldecathlon.com/)
+- [PAXRay: A Projected dataset for the segmentation of Anatomical structures in X-Ray data](https://constantinseibold.github.io/paxray/)
+- [Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119703167)
