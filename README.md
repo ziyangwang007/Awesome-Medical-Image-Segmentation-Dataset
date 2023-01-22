@@ -4,17 +4,6 @@ A list of publicly available medical image segmentation dataset.
 
 # Chanllenge
 
-## ISBI 2023
-
-- [APIS: A Paired CT-MRI Dataset for Ischemic Stroke Segmentation Challenge](https://bivl2ab.uis.edu.co/challenges/apis)
-- [XPRESS: Xray Projectomic Reconstruction - Extracting Segmentation with Skeletons](https://xpress.grand-challenge.org/)
-- [SMILE-UHURA : Small Vessel Segmentation at MesoscopIc ScaLEfrom Ultra-High ResolUtion 7T Magnetic Resonance Angiograms](
-https://www.soumick.com/en/uhura/)
-- [SHINY-ICARUS: Segmentation over tHree dImensional rotational aNgiographY of Internal Carotid ArteRy with aneUrySm](https://www.synapse.org/shiny_icarus)
-
-## ISBI 2019
-- [SegTHOR: Segmentation of THoracic Organs at Risk in CT images](https://competitions.codalab.org/competitions/21145)
-
 
 ## MICCAI 2023
 - [The Federated Tumor Segmentation (FeTS) Challenge 2022](https://fets-ai.github.io/Challenge/)
@@ -23,6 +12,15 @@ https://www.soumick.com/en/uhura/)
 - [Brain shift with Intraoperative Ultrasound - Segmentation tasks](https://curious2022.grand-challenge.org/)
 - [Multi-Modality Abdominal Multi-Organ Segmentation Challenge 2022](https://amos22.grand-challenge.org/Home/)
 - [Pulmonary Artery Segmentation Challenge 2022](https://parse2022.grand-challenge.org/)
+
+
+## ISBI 2023
+
+- [APIS: A Paired CT-MRI Dataset for Ischemic Stroke Segmentation Challenge](https://bivl2ab.uis.edu.co/challenges/apis)
+- [XPRESS: Xray Projectomic Reconstruction - Extracting Segmentation with Skeletons](https://xpress.grand-challenge.org/)
+- [SMILE-UHURA : Small Vessel Segmentation at MesoscopIc ScaLEfrom Ultra-High ResolUtion 7T Magnetic Resonance Angiograms](
+https://www.soumick.com/en/uhura/)
+- [SHINY-ICARUS: Segmentation over tHree dImensional rotational aNgiographY of Internal Carotid ArteRy with aneUrySm](https://www.synapse.org/shiny_icarus)
 
 ## MICCAI 2022
 - [Multi-domain Cross-time-point Infant Cerebellum MRI Segmentation 2022](https://tarheels.live/cseg2022/)
@@ -33,8 +31,44 @@ https://www.soumick.com/en/uhura/)
 - [The 2022 Intracranial Hemorrhage Segmentation Challenge on Non-Contrast head CT (NCCT)](https://instance.grand-challenge.org/)
 - [Automatic tumor lesion segmentation in whole-body FDG-PET/CT](https://autopet.grand-challenge.org/)
 
+## ISBI 2022
+- [CoNIC: Colon Nuclei Identification and Counting Challenge](https://conic-challenge.grand-challenge.org/)
+
+
+## MICCAI 2021
+- [KiTS21: 2021 Kidney and Kidney Tumor Segmentation Challenge](https://kits21.kits-challenge.org/)
+- [FLARE21: Fast and Low GPU memory Abdominal oRgan sEgmentation](https://flare.grand-challenge.org/)
+- [FeTS: Federated Tumor Segmentation](https://www.med.upenn.edu/cbica/fets/)
+- [FeTA: Fetal Brain Tissue Annotation and Segmentation Challenge](https://feta-2021.grand-challenge.org/)
+- [HECKTOR: HEad and neCK TumOR segmentation and outcome prediction in PET/CT images](https://www.aicrowd.com/challenges/miccai-2021-hecktor)
+- [M&Ms-2: Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI (M&Ms-2)](https://www.ub.edu/mnms-2/)
+- [BraTS2021: RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2021](https://www.med.upenn.edu/cbica/brats2021/)
+- [FU-Seg: Foot Ulcer Segmentation Challenge 2021](https://fusc.grand-challenge.org/)
+- [VWS: Carotid Artery Vessel Wall Segmentation Challenge](https://vessel-wall-segmentation.grand-challenge.or)
+
+## ISBI 2021
+- [SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images](https://segpc-2021.grand-challenge.org/SegPC-2021/)
+- [6th ISBI Cell Tracking Challenge](http://celltrackingchallenge.net/?)
+
+
+
 ## MICCAI 2020
 - [Multimodal Brain Tumor Segmentation Challenge 2020 (BraTS)](https://www.med.upenn.edu/cbica/brats2020/data.html)
+- [3D Head and Neck Tumor Segmentation in PET/CT](https://www.aicrowd.com/challenges/miccai-2020-hecktor)
+- [Anatomical Brain Barriers to Cancer Spread: Segmentation from CT and MR Images](https://abcs.mgh.harvard.edu/)
+- [Automated Segmentation Of Coronary Arteries](https://asoca.grand-challenge.org/)
+- [Large Scale Vertebrae Segmentation Challenge](https://verse2020.grand-challenge.org/)
+- [Intracranial Aneurysm Detection and Segmentation Challenge](https://adam.isi.uu.nl/)
+- [Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Image Segmentation Challenge](https://www.ub.edu/mnms/)
+- [Thyroid Nodule Segmentation and Classification in Ultrasound Images](https://tn-scui2020.grand-challenge.org/Home/)
+- [MyoPS 2020: Myocardial pathology segmentation combining multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/)
+
+
+## ISBI 2019
+- [SegTHOR: Segmentation of THoracic Organs at Risk in CT images](https://competitions.codalab.org/competitions/21145)
+
+
+
 
 ## MICCAI 2018
 - [ISIC Skin Image Analysis Workshop and Challenge](https://workshop2018.isic-archive.com/)
@@ -60,6 +94,8 @@ https://www.soumick.com/en/uhura/)
 - [Vessel Segmentation](https://www.kaggle.com/competitions/sai-vessel-segmentation2)
 - [COVID-19 CT Images Segmentation](https://www.kaggle.com/competitions/covid-segmentation)
 - [Identify glomeruli in human kidney tissue images](https://www.kaggle.com/competitions/hubmap-kidney-segmentation)
+
+
 
 # Region of Interest
 
@@ -88,6 +124,11 @@ https://www.soumick.com/en/uhura/)
 - [Intervertebral Disc Localization and Segmentation: 3D T2-weighted Turbo Spin Echo MR image Database](http://spineweb.digitalimaginggroup.ca/Index.php?n=Main.Datasets#Dataset_7.3A_Intervertebral_Disc_Localization_and_Segmentation.3A_3D_T2-weighted_Turbo_Spin_Echo_MR_image_Database)
 - [Intervertebral Disc Localization and Segmentation Multi-modality MRI Spine Image Database](http://spineweb.digitalimaginggroup.ca/Index.php?n=Main.Datasets#Dataset_6.3A_Intervertebral_Disc_Localization_and_Segmentation_Multi-modality_MRI_Spine_Image_Database)
 - [Lumbar vertebra segmentation CT image database](http://lit.fe.uni-lj.si/)
+
+
+## Kidney
+- [2021 Kidney and Kidney Tumor Segmentation Challenge](https://kits21.kits-challenge.org/)
+
 
 ## Others
 - [Medical Segmentation Decathlon](http://medicaldecathlon.com/)
